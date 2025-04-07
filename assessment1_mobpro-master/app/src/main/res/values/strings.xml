@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Konverter Mata Uang</string>
+    <string name="currency_intro">Aplikasi ini membantu Anda mengonversi Rupiah (IDR) dan Baht (THB) ke Dolar Amerika (USD).</string>
+    <string name="gambar">Gambar</string>
+    <string name="masukkan_jumlah">Masukkan jumlah</string>
+    <string name="idr">IDR</string>
+    <string name="thb">THB</string>
+    <string name="konversi_ke_usd">Konversi ke USD</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="english">Inggris</string>
+    <string name="hasil_konversi">Hasil Konversi: %1$.2f USD</string>
+    <string name="nilai_konversi">Nilai hasil konversi adalah %1$.2f USD</string>
+    <string name="input_invalid">Input tidak valid!</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="konversi_mata_uang">Konversi Mata Uang</string>
+    <string name="kembali">Kembali</string>
+    <string name="copyright">
+        Konverter Mata Uang adalah aplikasi Android untuk mengonversi Rupiah dan Baht ke Dolar Amerika.\n\n
+        Aplikasi ini dibuat untuk kelas Pemrograman untuk Perangkat Bergerak 1.\n\n
+        Copyright© 2024-2025 607062300001 Ghina Fadiyah HR\n
+        All rights reserved.
+    </string>
+</resources>

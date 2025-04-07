@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_intro">This app helps you convert Rupiah (IDR) and Baht (THB) to US Dollar (USD).</string>
+    <string name="gambar">Image</string>
+    <string name="masukkan_jumlah">Enter amount</string>
+    <string name="idr">IDR</string>
+    <string name="thb">THB</string>
+    <string name="konversi_ke_usd">Convert to USD</string>
+    <string name="bagikan">Share</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="english">English</string>
+    <string name="hasil_konversi">Conversion Result: %1$.2f USD</string>
+    <string name="nilai_konversi">The conversion result is %1$.2f USD</string>
+    <string name="input_invalid">Invalid input!</string>
+    <string name="tentang_aplikasi">About the App</string>
+    <string name="konversi_mata_uang">Currency Conversion</string>
+    <string name="kembali">Back</string>
+    <string name="copyright">" Currency Converter is an Android app to convert Rupiah and Baht to US Dollar.\\n\\n
+        This app was created for the Mobile Programming 1 class.\\n\\n
+        Copyright© 2024-2025 607062300001 Ghina Fadiyah HR\\n
+        All rights reserved."</string>
+</resources>
